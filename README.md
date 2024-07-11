@@ -10,13 +10,13 @@ The program was in partial fulfillment for our project in CS111 - Design Analysi
 
 <br><br>June 7, 2023.
 
-## About the Program
+## About the Project
 <br><p>different sorting algorithms (Selection Sort, Bubble Sort, Insertion Sort, Mergesort, 
 Quicksort, and Heapsort) to sort N randomly generated integers and then analyze their run 
 time. The project will have two parts, one for the basic implementation of the program that sorts 
 the integers, and the second for analyzing what you see in terms of performance.</p>
 
-## Purpose of the program
+## Purpose of the Program
 <br><p> The program contains several Sorting Algorithms such as Selection Sort, 
 Bubble Sort, Insertion Sort, Merge Sort, Quicksort, and Heapsort. It is instructed to 
 calculate the running time of all the sorting algorithms using only two types of an 
